@@ -1,0 +1,22 @@
+{
+    "name": "noones-autogreet",
+    "version": "1.0.0",
+    "description": "An application to automatically greet trade partners on Noones when a trade is initiated.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rotradam/noones-autogreet.git"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+    }
+  }
+  
